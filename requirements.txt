@@ -1,1 +1,8 @@
 django
+djangorestframework
+pandas
+openpyxl
+scikit-learn
+numpy
+matplotlib
+seaborn
